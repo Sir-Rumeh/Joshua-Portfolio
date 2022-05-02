@@ -157,14 +157,20 @@ a:focus {
 }
 .scroll {
 	position: fixed;
-	left: 52.1%;
-	top: 81%;
+	left: 50.8%;
+	top: 75%;
+	background-color: #1d1b19;
 	display: flex;
 	transform: rotate(90deg);
 	letter-spacing: 6px;
+	z-index: 111;
+}
+.scroll .text {
+	margin-left: 1rem;
 }
 .scroll .arrow {
 	margin-left: 1rem;
+	margin-right: 1rem;
 }
 /*------------------------------------------------------------------*/
 /*	03) Site Right
@@ -2794,11 +2800,10 @@ body.light .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb {
 .resumo_fn_modalbox .modal_content::-webkit-scrollbar {
 	width: 11px;
 }
-.resumo_fn_modalbox .modal_content:-webkit-scrollbar-track {
-	background: #111;
-}
+
 .resumo_fn_modalbox .modal_content::-webkit-scrollbar-thumb {
 	background-color: var(--mc);
+
 	border-radius: 10px;
 	border: 3px solid #181715;
 }

@@ -19,7 +19,7 @@ const Home = () => {
 				</div>
 			</div>
 			<div className="scroll">
-				<span>SCROLL</span>
+				<span className="text">SCROLL</span>
 				<span className="arrow">&rarr;</span>
 			</div>
 		</section>
