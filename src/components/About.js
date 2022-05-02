@@ -12,10 +12,7 @@ const About = () => {
 						<h3 className="subtitle">About Me</h3>
 						<h3 className="title">Biography</h3>
 						<p className="desc">
-							{`I'm a Freelancer Designer with over 4 years
-                        of experience. I'm from Nigeria. I code and create
-                        designs for amazing people around the world. I like
-                        work with new people. New people are new experiences.`}
+							{`I’m a UI/UX Designer with 3 years of professional experience in delivering solutions to product problems. I’m from Nigeria and I’ve had the privilege to work with amazing people remotely from roughly 4 continents while freelancing, working on contract and full time roles.`}
 						</p>
 					</div>
 					{/* /Main Title */}
@@ -160,29 +157,129 @@ const About = () => {
 											<div className="item">
 												<div className="item_top">
 													<h5>
-														Twitter
-														LLC
+														AfriBlocks
 													</h5>
 													<span>
-														( 2016 —
-														2011 )
+														( Sep 2021
+														— Dec 2021
+														)
 													</span>
 												</div>
 												<h3>
-													Graphic
+													Lead UI/UX
 													Designer
 												</h3>
 												<p>
-													Adipisicing
-													Lorem ipsum
-													dolor sit amet,
-													consectetur
-													elit, sed do
-													eiusmod tempor
-													incididunt ut
-													labore et
-													dolore magna
-													aliqua.{" "}
+													Redesigned and
+													restructured
+													the experience
+													of a freelance
+													product that
+													connects
+													talents in
+													Africa to
+													clients all
+													over the world.{" "}
+												</p>
+											</div>
+										</li>
+										<li>
+											<div className="item">
+												<div className="item_top">
+													<h5>
+														Azurestech
+													</h5>
+													<span>
+														( Sep 2021
+														— July
+														2022 )
+													</span>
+												</div>
+												<h3>
+													Lead UI/UX
+													Designer
+												</h3>
+												<p>
+													Directly
+													collaborated
+													with CEO and
+													Product team to
+													prototype,
+													design and
+													deliver the
+													user interface
+													of a social
+													media
+													application for
+													christians with
+													seamless user
+													experience.{" "}
+												</p>
+											</div>
+										</li>
+										<li>
+											<div className="item">
+												<div className="item_top">
+													<h5>
+														Onqoba
+														Agency
+													</h5>
+													<span>
+														( Jan 2020
+														— Sep 2020
+														)
+													</span>
+												</div>
+												<h3>
+													Lead UI/UX
+													Designer
+												</h3>
+												<p>
+													Designed mobile
+													UI applications
+													for Fintech,
+													health and
+													ecommerce
+													industries and
+													also worked
+													close to
+													developers to
+													ensure pixel
+													perfect
+													developement.{" "}
+												</p>
+											</div>
+										</li>
+										<li>
+											<div className="item">
+												<div className="item_top">
+													<h5>
+														Upwork -
+														freelance
+													</h5>
+													<span>
+														( Feb 2019
+														— January
+														2020 )
+													</span>
+												</div>
+												<h3>
+													Lead UI/UX
+													Designer
+												</h3>
+												<p>
+													Designed mobile
+													UI applications
+													for Fintech,
+													health and
+													ecommerce
+													industries and
+													also worked
+													close to
+													developers to
+													ensure pixel
+													perfect
+													developement.{" "}
 												</p>
 											</div>
 										</li>
@@ -214,20 +311,30 @@ const About = () => {
 													</span>
 												</div>
 												<h3>
-													Bachelor Degree
+													Bachelor in
+													Petroleum
+													Engineering
 												</h3>
-												<p>
-													Adipisicing
-													Lorem ipsum
-													dolor sit amet,
-													consectetur
-													elit, sed do
-													eiusmod tempor
-													incididunt ut
-													labore et
-													dolore magna
-													aliqua.{" "}
-												</p>
+											</div>
+										</li>
+										<li>
+											<div className="item">
+												<div className="item_top">
+													<h5>
+														The
+														interaction
+														design
+														foundation
+													</h5>
+													<span>
+														( 2020 )
+													</span>
+												</div>
+												<h3>
+													Product | UI/UX
+													Design
+													Membership
+												</h3>
 											</div>
 										</li>
 									</ul>

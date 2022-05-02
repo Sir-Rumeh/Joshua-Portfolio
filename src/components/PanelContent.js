@@ -6,9 +6,9 @@ const PanelContent = () => {
 		new Typed(".animated_title", {
 			strings: [
 				"Joshua Ogbemudia",
-				"Product Designer",
-				"Freelancer",
-				"UI/UX",
+				"A UI/UX Designer",
+				"An Illustrator",
+				"An XR Enthusiast",
 			],
 			loop: true,
 			smartBackspace: false,

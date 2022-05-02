@@ -1,7 +1,6 @@
 # Joshua Ogbemudia Personal portfolio Website
 
-[Live Site](#)
-
+[Live Site](https://ogbemudia-joshua-portfolio.netlify.app/)
 
 ![localhost_3000_ (1)](https://user-images.githubusercontent.com/95687544/165886255-0e04e40c-87b4-47ad-9e2f-2f604c47c56e.png)
 ![localhost_3000_ (2)](https://user-images.githubusercontent.com/95687544/165886274-83738c89-2de5-4689-8f32-2c8db51b2206.png)
