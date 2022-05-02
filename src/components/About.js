@@ -231,8 +231,7 @@ const About = () => {
 													</span>
 												</div>
 												<h3>
-													Lead UI/UX
-													Designer
+													UI/UX Designer
 												</h3>
 												<p>
 													Designed mobile
@@ -264,8 +263,7 @@ const About = () => {
 													</span>
 												</div>
 												<h3>
-													Lead UI/UX
-													Designer
+													UI/UX Designer
 												</h3>
 												<p>
 													Designed mobile
