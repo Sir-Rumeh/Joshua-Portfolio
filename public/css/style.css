@@ -155,6 +155,17 @@ a:focus {
 		width: 68%;
 	}
 }
+.scroll {
+	position: fixed;
+	left: 52.1%;
+	top: 81%;
+	display: flex;
+	transform: rotate(90deg);
+	letter-spacing: 6px;
+}
+.scroll .arrow {
+	margin-left: 1rem;
+}
 /*------------------------------------------------------------------*/
 /*	03) Site Right
 /*------------------------------------------------------------------*/

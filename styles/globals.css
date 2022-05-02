@@ -9,14 +9,7 @@
 .typed-cursor {
 	display: none;
 }
-.right_in::-webkit-scrollbar {
-	width: 0px;
-	/* Track */
-}
-.right_in {
-	overflow: scroll;
-	height: calc(100% - 0px);
-}
+
 .resumo_fn_modalbox .img_holder img {
 	margin-bottom: -50% !important;
 	min-width: 100% !important;
@@ -54,4 +47,16 @@ html {
 }
 .light .h3 {
 	color: #000;
+}
+
+.right_in::-webkit-scrollbar {
+	width: 0px;
+}
+.right_in::-webkit-scrollbar-thumb {
+	width: 0px;
+}
+
+.right_in {
+	overflow: scroll;
+	height: calc(100% - 0px);
 }

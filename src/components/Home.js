@@ -18,6 +18,10 @@ const Home = () => {
 					{/* /Main Title */}
 				</div>
 			</div>
+			<div className="scroll">
+				<span>SCROLL</span>
+				<span className="arrow">&rarr;</span>
+			</div>
 		</section>
 	);
 };
