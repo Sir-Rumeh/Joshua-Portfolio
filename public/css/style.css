@@ -156,9 +156,12 @@ a:focus {
 	}
 }
 .scroll {
-	position: fixed;
-	left: 50.8%;
-	top: 75%;
+	position: absolute;
+	top: 10%;
+	left: 90.5%;
+	min-width: 15rem;
+	/* left: 50.8%;
+	top: 75%; */
 	background-color: #1d1b19;
 	display: flex;
 	transform: rotate(90deg);
